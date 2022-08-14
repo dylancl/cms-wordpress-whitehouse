@@ -130,5 +130,4 @@ dist
 .pnp.*
 
 # WordPress
-wp-content
 wp-includes
